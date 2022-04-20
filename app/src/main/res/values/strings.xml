@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CorreoElectronico_Entregable2</string>
+
+    <string name="remitente_correo">Andres</string>
+    <string name="asunto_correo">Entregable # 2- Dispositivos moviles</string>
+    <string name="contenido_correo">La ciencia no es perfecta, con frecuencia se utiliza mal, no es más que una herramienta</string>
+</resources>
